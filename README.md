@@ -3,11 +3,11 @@
 
 ### Hi there 🙋‍♂️!
 
-I am a **data analyst | python developer**. I work with ETL processes, data analysis and machine learning. I am especially interested in automation and also speech processing and phonology—all of it through (mainly) `Python` and `bash`.
+I am a **data analyst | python developer**. I work with ETL processes, data analysis and machine learning. Especially interested in automation and also speech processing & phonology—all of it through (mainly) `Python` and `bash`.
 
 - ✍️ Sometimes I talk about things on [medium](https://medium.com/@fernandocostapradillo/starting-off-a-python-data-science-project-on-github-ec160fd97c63)
-- 🔭 Currently working on deployment of my own projects.
-- 🌱 Also learning about postgres and pyspark.
+- 🔭 Currently working on **deployment** of my own projects.
+- 🌱 Also learning about **postgres and pyspark**.
 - 📪 Ask me about anything! You can reach me on [LinkedIn](https://www.linkedin.com/in/fernandocostapradillo/)
 
-On this page you might find both projects and educational content such as workshops.
+On this page you may find both projects and educational content such as workshops.
