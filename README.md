@@ -14,7 +14,7 @@ On this page you may find both projects and educational content such as workshop
 
 These are the technologies I use:
 
-| **Languages 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
+| **Languages** 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Python | Git| SQL | Docker | Python: matplotlib, seaborn, plotly |
 | Bash | | MongoDB | Heroku | Tableau
