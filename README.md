@@ -11,3 +11,11 @@ I am a **data analyst | python developer**. I work with ETL processes, data anal
 -  Ask me about anything! You can reach me on [LinkedIn](https://www.linkedin.com/in/fernandocostapradillo/)
 
 On this page you may find both projects and educational content such as workshops.
+
+These are the technologies I use:
+
+| Languages 🧑‍💻 | Version control 📆| Databases 🐬| Deployment ☁️ | Visualization 📊|
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Python | Git| SQL | Docker | Python: matplotlib, seaborn, plotly |
+| Bash | | MongoDB | Heroku | Tableau
+| SQL|  |  | Streamlit | PowerBI
