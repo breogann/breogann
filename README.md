@@ -22,7 +22,7 @@ These are the technologies I use for **Data Analysis**:
 | Bash | | MongoDB | Heroku | Tableau
 | SQL|  |  | Streamlit | PowerBI
 
-These are the ones I use for **Web development**:
+These are the ones I use for **Web development - MERN**:
 
 | **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Frameworks** 📊| **Libraries** 📚 | **Runtime** 🏃‍♂️ |
 | --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |
