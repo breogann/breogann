@@ -3,7 +3,9 @@
 
 ### Hi there 🙋‍♂️!
 
-I am a **data analyst | python developer**. I work with ETL processes, data analysis and machine learning. Especially interested in automation and also speech processing & phonology—all of it through (mainly) `Python` and `bash`.
+I am a **data analyst | python developer**. I work with ETL processes, data analysis and machine learning. Especially interested in automation and also speech processing & phonology—all of it through `Python`, `SQL` and `bash`.
+
+Currently becoming a **Full stack development** too.
 
 -  Sometimes I talk about things on [medium](https://medium.com/@fernandocostapradillo/starting-off-a-python-data-science-project-on-github-ec160fd97c63)
 -  Currently working on **deployment** of my own projects.
@@ -12,10 +14,18 @@ I am a **data analyst | python developer**. I work with ETL processes, data anal
 
 On this page you may find both projects and educational content such as workshops.
 
-These are the technologies I use:
+These are the technologies I use for **Data Analysis**:
 
 | **Languages** 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Python | Git| SQL | Docker | Python: matplotlib, seaborn, plotly |
 | Bash | | MongoDB | Heroku | Tableau
 | SQL|  |  | Streamlit | PowerBI
+
+These are the ones I use for **Web development**:
+
+| **Languages** 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Frameworks** 📊| **Libraries** 📚 | **Runtime** 🏃‍♂️ |
+| --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |
+| Javascript ES6 | Git| MongoDB | Netlify | Express JS | React JS | NodeJS
+| CSS3 | |  | Heroku | Bootstrap 5 |  | |
+| HTML5 |  |  |  |  |  | |
