@@ -16,7 +16,7 @@ On this page you may find both projects and educational content such as workshop
 
 These are the technologies I use for **Data Analysis**:
 
-| **Languages** 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
+| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Python | Git| SQL | Docker | Python: matplotlib, seaborn, plotly |
 | Bash | | MongoDB | Heroku | Tableau
@@ -24,7 +24,7 @@ These are the technologies I use for **Data Analysis**:
 
 These are the ones I use for **Web development**:
 
-| **Languages** 🧑‍💻 | **Version control** 📆| **Databases** 🐬| **Deployment** ☁️ | **Frameworks** 📊| **Libraries** 📚 | **Runtime** 🏃‍♂️ |
+| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Frameworks** 📊| **Libraries** 📚 | **Runtime** 🏃‍♂️ |
 | --------------- | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |
 | Javascript ES6 | Git| MongoDB | Netlify | Express JS | React JS | NodeJS
 | CSS3 | |  | Heroku | Bootstrap 5 |  | |
